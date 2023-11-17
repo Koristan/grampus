@@ -283,8 +283,7 @@ button:hover {
     z-index: 3;
     position: fixed;
     top: 63vh;
-    right: 5vh;
-
+    right: 2vh
 }
 
 .header-logo {
